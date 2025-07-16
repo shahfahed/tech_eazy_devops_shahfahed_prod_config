@@ -1,0 +1,5 @@
+{
+  "db_url": "db.prod.internal",
+  "log_level": "error",
+  "featureX_enabled": false
+}
